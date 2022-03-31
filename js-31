@@ -1,0 +1,3 @@
+const final = "final day"
+
+console.log(final + "yay")
